@@ -21,5 +21,10 @@ namespace primeiroprojetoti48
         {
             label1.Text = "Olá turma TI48";
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
